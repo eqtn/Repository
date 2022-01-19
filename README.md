@@ -1,5 +1,7 @@
 # εquation
 
+> ***Of the investors, by the investors, for the investors.***
+
 > ***Rooting the power of the crowd, to square the wisdom of the few.***
 
 Equation is a democratic investment corporation established on the Ethereum Blockchain, with the objective of allocating investor capital into avenues yielding a positive return on investment. Prior to founding Equation, [Him Gajria](www.himgajria.com) (him.eth) established an on-chain fund to experiment with a similar structure, calling it '[Radical](www.rdcl.xyz)'. This experiment lasted a year, turning $70,000 USD into $1,500,000 USD, returning 18x on investor capital (adjusted for subscriptions and redemptions).
@@ -7,7 +9,17 @@ Equation is a democratic investment corporation established on the Ethereum Bloc
 
 ## Resources
 
+- Net Asset Value: [Go to file](https://github.com/eqtn/Repository/blob/main/NAV.md)
+
+- Portfolio: [Go to file](https://github.com/eqtn/Repository/blob/main/Portfolio.md)
+
+- Phase-wise Reports: [Go to folder](https://github.com/eqtn/Repository/tree/main/Reports)
+
 - Official Website: [www.eqtn.xyz](www.eqtn.xyz)
+
+- Proposal Assembly: [Enter Assembly](https://github.com/eqtn/Repository/issues)
+
+- DAO: [Enter Portal](https://client.aragon.org/#/equation.aragonid.eth)
 
 - Contact: `contact@eqtn.xyz`
 
