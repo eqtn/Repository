@@ -1,25 +1,25 @@
-# Phase 0 (December 2021)
+# Phase 1 (January 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | -      |
-| Assets Under Management (at the beginning) | 2    | -      |
-| Deposits                                   | 3    | -      |
-| Withdrawals                                | 4    | -      |
-| Capital Appreciation                       | 5    | -      |
-| Fees for the Phase                         | 6    | -      |
-| +  Management Fees                         | 6a   | -      |
-| +  Performance Fees                        | 6b   | -      |
+| Assets Under Management (before fees)      | 1    | 2,000,000      |
+| Assets Under Management (at the beginning) | 2    | 0      |
+| Deposits                                   | 3    | 2,000,000      |
+| Withdrawals                                | 4    | 0      |
+| Capital Appreciation                       | 5    | 0      |
+| Fees for the Phase                         | 6    | 0      |
+| +  Custodian Fees                         | 6a   | 0      |
+| +  Performance Fees                        | 6b   | 0      |
 | -                                          | -    | -      |
-| Assets Under Management                    | 7    | -      |
-| Circulating Units                          | 8    | -      |
+| Assets Under Management                    | 7    | 2,000,000      |
+| Circulating Units                          | 8    | 2,000,000      |
 | NAVPT                                      | 9    | 1      |
 | -                                          | -    | -      |
-| Net Capital Appreciation                   | 10   | -      |
-| Net Capital Appreciation per Unit          | 11   | -      |
+| Net Capital Appreciation                   | 10   | 0      |
+| Net Capital Appreciation per Unit          | 11   | 0      |
 
-*Note: All values are as of 31/12/2021.*
+*Note: All values are as of 31/01/2022.*
 
 ## Notes to Accounts
 
