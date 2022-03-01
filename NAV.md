@@ -1,25 +1,25 @@
-# Phase 1 (January 2022)
+# Phase 2 (February 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 2,000,000      |
-| Assets Under Management (at the beginning) | 2    | 0      |
-| Deposits                                   | 3    | 2,000,000      |
-| Withdrawals                                | 4    | 0      |
-| Capital Appreciation                       | 5    | 0      |
-| Fees for the Phase                         | 6    | 0      |
-| +  Custodian Fees                         | 6a   | 0      |
-| +  Performance Fees                        | 6b   | 0      |
-| -                                          | -    | -      |
-| Assets Under Management                    | 7    | 2,000,000      |
-| Circulating Units                          | 8    | 2,000,000      |
-| NAVPT                                      | 9    | 1      |
-| -                                          | -    | -      |
-| Net Capital Appreciation                   | 10   | 0      |
-| Net Capital Appreciation per Unit          | 11   | 0      |
+| Assets Under Management (before fees)      | 1    | 2,115,000    |
+| Assets Under Management (at the beginning) | 2    | 2,000,000    |
+| Deposits                                   | 3    | 67,496       |
+| Withdrawals                                | 4    | 0            |
+| Capital Appreciation                       | 5    | 47,504       |
+| Fees for the Phase                         | 6    | 19,538        |
+| + Management Fees                          | 6a   | 5287         |
+| + Performance Fees                         | 6b   | 14,251        |
+| -                                          | -    | -            |
+| Assets Under Management                    | 7    | 2,095,461    |
+| Circulating Units                          | 8    | 2,067,496    |
+| NAVPT                                      | 9    | 1.01         |
+| -                                          | -    | -            |
+| Net Capital Appreciation                   | 10   | 27,965       |
+| Net Capital Appreciation per Unit          | 11   | 0.01         |
 
-*Note: All values are as of 31/01/2022.*
+*Note: All values are as of 28/02/2022.*
 
 ## Notes to Accounts
 
