@@ -1,25 +1,25 @@
-# Phase 2 (February 2022)
+# Phase 3 (March 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 2,115,000    |
-| Assets Under Management (at the beginning) | 2    | 2,000,000    |
-| Deposits                                   | 3    | 67,496       |
+| Assets Under Management (before fees)      | 1    | 2,185,000.00 |
+| Assets Under Management (at the beginning) | 2    | 2,095,461.30 |
+| Deposits                                   | 3    | 0            |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | 47,504       |
-| Fees for the Phase                         | 6    | 19,538        |
-| + Management Fees                          | 6a   | 5287         |
-| + Performance Fees                         | 6b   | 14,251        |
+| Capital Appreciation                       | 5    | 89,538.70    |
+| Fees for the Phase                         | 6    | 32324.11     |
+|         + Management Fees                  | 6a   | 5462.50      |
+|         + Performance Fees                 | 6b   | 26861.61     |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 2,095,461    |
+| Assets Under Management                    | 7    | 2,152,675.89 |
 | Circulating Units                          | 8    | 2,067,496    |
-| NAVPT                                      | 9    | 1.01         |
+| NAVPT                                      | 9    | 1.04         |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | 27,965       |
-| Net Capital Appreciation per Unit          | 11   | 0.01         |
+| Net Capital Appreciation                   | 10   | 57,214.59    |
+| Net Capital Appreciation per Unit          | 11   | 0.02         |
 
-*Note: All values are as of 28/02/2022.*
+*Note: All values are as of 31/03/2022.*
 
 ## Notes to Accounts
 
