@@ -1,25 +1,25 @@
-# Phase 3 (March 2022)
+# Phase 4 (April 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 2,185,000.00 |
-| Assets Under Management (at the beginning) | 2    | 2,095,461.30 |
+| Assets Under Management (before fees)      | 1    | 2,040,849.00 |
+| Assets Under Management (at the beginning) | 2    | 2,152,675.89 |
 | Deposits                                   | 3    | 0            |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | 89,538.70    |
-| Fees for the Phase                         | 6    | 32324.11     |
-|         + Management Fees                  | 6a   | 5462.50      |
-|         + Performance Fees                 | 6b   | 26861.61     |
+| Capital Appreciation                       | 5    | -111,826.84  |
+| Fees for the Phase                         | 6    | 5102.12      |
+|         + Management Fees                  | 6a   | 5102.12      |
+|         + Performance Fees                 | 6b   | 0            |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 2,152,675.89 |
+| Assets Under Management                    | 7    | 2,035,746.93 |
 | Circulating Units                          | 8    | 2,067,496    |
-| NAVPT                                      | 9    | 1.04         |
+| NAVPT                                      | 9    | 0.9846       |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | 57,214.59    |
-| Net Capital Appreciation per Unit          | 11   | 0.02         |
+| Net Capital Appreciation                   | 10   | -116,928.96  |
+| Net Capital Appreciation per Unit          | 11   | -0.0565      |
 
-*Note: All values are as of 31/03/2022.*
+*Note: All values are as of 30/04/2022.*
 
 ## Notes to Accounts
 
