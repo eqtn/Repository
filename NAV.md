@@ -1,25 +1,25 @@
-# Phase 4 (April 2022)
+# Phase 5 (May 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 2,040,849.00 |
-| Assets Under Management (at the beginning) | 2    | 2,152,675.89 |
+| Assets Under Management (before fees)      | 1    | 1,860,375.00 |
+| Assets Under Management (at the beginning) | 2    | 2,035,746.93 |
 | Deposits                                   | 3    | 0            |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | -111,826.84  |
-| Fees for the Phase                         | 6    | 5102.12      |
-|         + Management Fees                  | 6a   | 5102.12      |
+| Capital Appreciation                       | 5    | -175,371.93  |
+| Fees for the Phase                         | 6    | 4650.93      |
+|         + Management Fees                  | 6a   | 4650.93      |
 |         + Performance Fees                 | 6b   | 0            |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 2,035,746.93 |
+| Assets Under Management                    | 7    | 1,855,724.06 |
 | Circulating Units                          | 8    | 2,067,496    |
-| NAVPT                                      | 9    | 0.9846       |
+| NAVPT                                      | 9    | 0.8975       |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | -116,928.96  |
-| Net Capital Appreciation per Unit          | 11   | -0.0565      |
+| Net Capital Appreciation                   | 10   | -180,022.87  |
+| Net Capital Appreciation per Unit          | 11   | -0.0870      |
 
-*Note: All values are as of 30/04/2022.*
+*Note: All values are as of 31/05/2022.*
 
 ## Notes to Accounts
 
