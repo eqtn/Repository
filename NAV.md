@@ -1,25 +1,25 @@
-# Phase 5 (May 2022)
+# Phase 6 (June 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 1,860,375.00 |
-| Assets Under Management (at the beginning) | 2    | 2,035,746.93 |
-| Deposits                                   | 3    | 0            |
+| Assets Under Management (before fees)      | 1    | 1,664,470.00    |
+| Assets Under Management (at the beginning) | 2    | 1,855,724.00    |
+| Deposits                                   | 3    | 25,000.00    |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | -175,371.93  |
-| Fees for the Phase                         | 6    | 4650.93      |
-|         + Management Fees                  | 6a   | 4650.93      |
+| Capital Appreciation                       | 5    | -216,253.95  |
+| Fees for the Phase                         | 6    | 4161.17  |
+|         + Management Fees                  | 6a   | 4161.17  |
 |         + Performance Fees                 | 6b   | 0            |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 1,855,724.06 |
+| Assets Under Management                    | 7    | 1,660,308.93 |
 | Circulating Units                          | 8    | 2,067,496    |
-| NAVPT                                      | 9    | 0.8975       |
+| NAVPT                                      | 9    | 0.8030  |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | -180,022.87  |
-| Net Capital Appreciation per Unit          | 11   | -0.0870      |
+| Net Capital Appreciation                   | 10   | -220,415.13  |
+| Net Capital Appreciation per Unit          | 11   | -0.1066 |
 
-*Note: All values are as of 31/05/2022.*
+*Note: All values are as of 30/06/2022.*
 
 ## Notes to Accounts
 
