@@ -1,25 +1,25 @@
-# Phase 6 (June 2022)
+# Phase 7 (July 2022)
 
 | Particulars                                | Note | Values |
 |--------------------------------------------|:----:|-------:|
 | All values in $ USD                        |      |        |
-| Assets Under Management (before fees)      | 1    | 1,664,470.00    |
-| Assets Under Management (at the beginning) | 2    | 1,855,724.00    |
-| Deposits                                   | 3    | 25,000.00    |
+| Assets Under Management (before fees)      | 1    | 1,808,950.00  |
+| Assets Under Management (at the beginning) | 2    | 1,660,308.00  |
+| Deposits                                   | 3    | 0         |
 | Withdrawals                                | 4    | 0            |
-| Capital Appreciation                       | 5    | -216,253.95  |
-| Fees for the Phase                         | 6    | 4161.17  |
-|         + Management Fees                  | 6a   | 4161.17  |
-|         + Performance Fees                 | 6b   | 0            |
+| Capital Appreciation                       | 5    | 148,642.00   |
+| Fees for the Phase                         | 6    | 49,114.97    |
+|         + Management Fees                  | 6a   | 4522.37     |
+|         + Performance Fees                 | 6b   | 44,592.60      |
 | -                                          | -    | -            |
-| Assets Under Management                    | 7    | 1,660,308.93 |
+| Assets Under Management                    | 7    | 1,759,835.03 |
 | Circulating Units                          | 8    | 2,067,496    |
-| NAVPT                                      | 9    | 0.8030  |
+| NAVPT                                      | 9    | 0.8511  |
 | -                                          | -    | -            |
-| Net Capital Appreciation                   | 10   | -220,415.13  |
-| Net Capital Appreciation per Unit          | 11   | -0.1066 |
+| Net Capital Appreciation                   | 10   | 99,527.03    |
+| Net Capital Appreciation per Unit          | 11   | 0.0481   |
 
-*Note: All values are as of 30/06/2022.*
+*Note: All values are as of 31/07/2022.*
 
 ## Notes to Accounts
 
